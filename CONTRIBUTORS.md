@@ -206,3 +206,10 @@ Name: [Bryan Speelman](https://github.com/crayphix)
 About: Java Developer
 Programming Language: Java
 Email: bryspeelm@gmail.com
+
+
+Name: [Shantanu Bhardwaj](shantanub007)
+Place: New Delhi
+About: Pythonista
+Programming Language: Python
+Email: shantanub30@gmail.com
